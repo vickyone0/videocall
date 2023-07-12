@@ -1,0 +1,10 @@
+^D:\SECTOR2\ZEGOVIDEO\FLUTTER\BUILD\WINDOWS\CMAKEFILES\5027D102F3F23AD4B6BBD23A206A86B3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/sector2/zegovideo/flutter/windows -BD:/sector2/zegovideo/flutter/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/sector2/zegovideo/flutter/build/windows/zego_sdk_quick_start.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

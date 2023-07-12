@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\zego_express_engine_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\ZegoCustomVideoCaptureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\ZegoCustomVideoProcessManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\ZegoCustomVideoRenderManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\ZegoMediaPlayerVideoManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\ZegoMediaPlayerBlockDataManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\ZegoLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoExpressEngineEventHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoExpressEngineMethodHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoTextureRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoTextureRendererController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\include\zego_express_engine\zego_express_engine_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\include\zego_express_engine\ZegoCustomVideoCaptureManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\include\zego_express_engine\ZegoCustomVideoDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\include\zego_express_engine\ZegoCustomVideoProcessManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\include\zego_express_engine\ZegoCustomVideoRenderManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\include\zego_express_engine\ZegoMediaPlayerVideoManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\include\zego_express_engine\ZegoMediaPlayerBlockDataManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\ZegoLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\DataToImageTools.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoExpressEngineEventHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoExpressEngineMethodHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoTextureRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\internal\ZegoTextureRendererController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\windows\flutter\ephemeral\.plugin_symlinks\zego_express_engine\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{194B200C-4441-3B13-867C-2FAD67A2D3DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EF185728-0B64-3FBB-AE4F-5A7582E5257B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

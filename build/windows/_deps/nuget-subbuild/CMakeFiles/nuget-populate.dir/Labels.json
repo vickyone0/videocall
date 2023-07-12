@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/ee737ee0fa56dd22ebb54d1caa2c9991/nuget-populate.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/063f50ea7112fe3f07cfb9995b5c73ce/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-build.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-download.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-install.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-test.rule"
+		},
+		{
+			"file" : "D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

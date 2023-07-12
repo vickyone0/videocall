@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/ee737ee0fa56dd22ebb54d1caa2c9991/nuget-populate.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/063f50ea7112fe3f07cfb9995b5c73ce/nuget-populate-complete.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-build.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-configure.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-copyfile.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-download.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-install.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-mkdir.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-patch.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-test.rule
+D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/653bea62b7249ba0bc6355af28cecff9/nuget-populate-update.rule

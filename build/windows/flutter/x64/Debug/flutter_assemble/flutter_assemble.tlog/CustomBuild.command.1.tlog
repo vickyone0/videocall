@@ -1,0 +1,28 @@
+^D:\SECTOR2\ZEGOVIDEO\FLUTTER\BUILD\WINDOWS\CMAKEFILES\32A24C378EBB14E6AA314FD1A5B4F240\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\tools\flutter PROJECT_DIR=D:\sector2\zegovideo\flutter FLUTTER_ROOT=C:\tools\flutter FLUTTER_EPHEMERAL_DIR=D:\sector2\zegovideo\flutter\windows\flutter\ephemeral PROJECT_DIR=D:\sector2\zegovideo\flutter FLUTTER_TARGET=D:\sector2\zegovideo\flutter\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8yYTM0MDFjOWJiYjVhOWE5YWVjNzRkNGY3MzVkMThhOWRkM2ViZjJkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\sector2\zegovideo\flutter\.dart_tool\package_config.json C:/tools/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\SECTOR2\ZEGOVIDEO\FLUTTER\BUILD\WINDOWS\CMAKEFILES\9406FB8B6FBD612E2188AAD6DD16E791\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\SECTOR2\ZEGOVIDEO\FLUTTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/sector2/zegovideo/flutter/windows -BD:/sector2/zegovideo/flutter/build/windows --check-stamp-file D:/sector2/zegovideo/flutter/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^D:\SECTOR2\ZEGOVIDEO\FLUTTER\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\EE737EE0FA56DD22EBB54D1CAA2C9991\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild -BD:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/sector2/zegovideo/flutter/build/windows/_deps/nuget-subbuild/nuget-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,16 @@
+D:/sector2/zegovideo/flutter/build/windows/CMakeFiles/INSTALL.dir
+D:/sector2/zegovideo/flutter/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/sector2/zegovideo/flutter/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/sector2/zegovideo/flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/sector2/zegovideo/flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/sector2/zegovideo/flutter/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/sector2/zegovideo/flutter/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/sector2/zegovideo/flutter/build/windows/runner/CMakeFiles/zego_sdk_quick_start.dir
+D:/sector2/zegovideo/flutter/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/sector2/zegovideo/flutter/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+D:/sector2/zegovideo/flutter/build/windows/plugins/permission_handler_windows/CMakeFiles/permission_handler_windows_plugin.dir
+D:/sector2/zegovideo/flutter/build/windows/plugins/permission_handler_windows/CMakeFiles/INSTALL.dir
+D:/sector2/zegovideo/flutter/build/windows/plugins/permission_handler_windows/CMakeFiles/ALL_BUILD.dir
+D:/sector2/zegovideo/flutter/build/windows/plugins/zego_express_engine/CMakeFiles/zego_express_engine_plugin.dir
+D:/sector2/zegovideo/flutter/build/windows/plugins/zego_express_engine/CMakeFiles/INSTALL.dir
+D:/sector2/zegovideo/flutter/build/windows/plugins/zego_express_engine/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\653bea62b7249ba0bc6355af28cecff9\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\063f50ea7112fe3f07cfb9995b5c73ce\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\ee737ee0fa56dd22ebb54d1caa2c9991\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\sector2\zegovideo\flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8B481931-EB27-37EC-8B08-2E67D37AF2A7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
